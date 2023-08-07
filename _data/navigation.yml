@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "Publications"
+    - title: "CV"
+    #url: /cv/
+    url:/files/Candelaria CV.pdf
+    
+    - title: "Publications"
     url: /publications/
-
+    
+  - title: "Current Projects"
+    url: /portfolio/
+    
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+
+  - title: "Blog"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
+# - title: "Guide"
+#   url: /markdown/
