@@ -80,36 +80,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "John Lee Candelaria"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Assistant Professor, Hiroshima University"
+  location         : "Hiroshima, Japan"
+  employer         : "Hiroshima University"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=N9nrSxkAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "leecandelaria[@]hiroshima-u.ac.jp"
+  researchgate     : "https://www.researchgate.net/profile/John-Lee-Candelaria"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/lee.candelaria/"
   foursquare       :
-  github           : "academicpages"
+  github           : "leecandelaria"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/leecandelaria/"
+  orcid            : "https://orcid.org/0000-0001-9815-1410"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "leecandelaria"
   vine             :
   weibo            :
   xing             :
